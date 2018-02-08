@@ -1,12 +1,12 @@
 # map-generator</br>
 </br>
-#\letter are for configuration </br>
+# \letter are for configuration </br>
 <ul>
 <li>\t=max placement tries before giving up</li>
 <li>\f=max map filling before stopping</li>
 </ul>
 </br>
-#Symbols</br>
+# Symbols</br>
 <ul>
 <li>? > clearance</li>
 <li>! > clearance + spawn</li>
@@ -15,3 +15,6 @@
 <li>" > filling</li>
 <li>letter : variable length</li>
 </ul>
+# Variables</br>
+use maj for vertical length</br>
+use lower case for horizontal</br>
